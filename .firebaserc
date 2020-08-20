@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firebase-grid-da-21dc3": {
+      "hosting": {
+        "grid-dashboard": [
+          "angular-firebase-grid-da-21dc3"
+        ]
+      }
+    }
+  }
+}
